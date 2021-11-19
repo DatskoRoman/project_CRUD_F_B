@@ -1,19 +1,17 @@
 .users {
     margin-left: 46px;
     width: 1218px;
-    border: 1px solid #EBEDF3;
-    background-color: #FFFFFF;
-    box-shadow: 0 0 30px #523F690D;
+    background-color: lightgray;
     border-radius: 6px;
     opacity: 1;
 }
 
 .usersHead {
     display: flex;
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: sans-serif;
     font-weight: bold;
     font-size: 13px;
-    color: #A4A4B5;
+    color: black;
 }
 
 .usersHead h2 {

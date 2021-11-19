@@ -52,7 +52,7 @@ export default function LogInForm({setAuthorized}) {
                     <button>logIn</button>
                 </div>
             </form>
-            <button className={'baton'} id={hide} onClick={logOutLocal}>logOut</button>
+            <button className={'button'} id={hide} onClick={logOutLocal}>logOut</button>
         </div>
     )
 }

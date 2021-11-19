@@ -88,7 +88,7 @@ export default function Form({setCurrentUsers, setStatus}) {
 
     return (
         <div className={hide}>
-            <h2>Create new user</h2>
+            <h2>CREATE NEW USER</h2>
             <form onSubmit={onsubmitForm}>
                 <p>Username*</p>
                 <input type="text" name={'Username'} onInput={changeUserName}/>
