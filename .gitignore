@@ -1,0 +1,14 @@
+# Project exclude paths
+/back/node_modules/
+.idea
+/.idea
+./.idea
+./.idea/*
+
+
+# local env files
+back/.env
+.env.local
+.env.*.local
+# Project exclude paths
+/Backend/node_modules/
